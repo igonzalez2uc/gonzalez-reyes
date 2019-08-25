@@ -249,11 +249,11 @@ AHORA VAMOS POR PORTAFOLIO
     .item{
         width:48%;
         margin:1%;
-        background:#linear-gradient(to bottom, #0d7582, #38a4b1, #22a0b1);
+        background:#fc0;
         color:#FFF;
     }
 }
- @media screen and (max-width: 576px){
+@media screen and (max-width: 576px){
      .item{
          width:45%;
          margin:2%;
@@ -272,7 +272,7 @@ AHORA VAMOS POR PORTAFOLIO
      width:100%;
      height:auto;
      margin-bottom:-4px;
-     filter: none(1);
+     filter: none;
 }
  .item:hover figure img{
      transform:scale(2);
