@@ -249,7 +249,7 @@ AHORA VAMOS POR PORTAFOLIO
     .item{
         width:48%;
         margin:1%;
-        background:#fc0;
+        background:#ffcc00;
         color:#FFF;
     }
 }
@@ -257,9 +257,9 @@ AHORA VAMOS POR PORTAFOLIO
      .item{
          width:45%;
          margin:2%;
-         background:#linear-gradient(to bottom, #0d7582, #38a4b1, #4bb1bf);
+         background:#ffcc00;
          color:#FFF;
-         font-size: 0.8rem
+         font-size: 0.8rem;
     }
 }
  .item:hover{
