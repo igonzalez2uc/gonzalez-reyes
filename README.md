@@ -1,2 +1,3 @@
-# gonzalez-reyes
-" Portafolio Web de trabajos de diseño UC de Ignacia González y Elisa Reyes"
+# Proyectos GREI
+Portafolio Web de trabajos hechos durante la carrera de Diseño UC de Ignacia González y Elisa Reyes. 
+Grei (González, Reyes, Elisa, Ignacia).
